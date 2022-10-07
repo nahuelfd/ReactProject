@@ -1,0 +1,462 @@
+[
+    {
+        "id": "1",
+        "nombre": "HALO",
+        "sinopsis": "Tiene instrucciones claras: no deben formar vínculos demasiado fuertes con ningún humano y deben esforzarse en ocultar sus cualidades sobrehumanas. Pero Beth, la más inexperta, rompe una de las reglas sagradas: se enamora de Xavier Woods, el chico más guapo del colegio e incluso llega a revelarle su secreto.",
+        "precio": "500",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/halo.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "2",
+        "nombre": "CENIZAS",
+        "sinopsis": "Cenizas se inicia con el viaje de Alex, una adolescente enferma que, tras haber perdido toda esperanza de recuperación, decide atravesar a solas los fríos bosques de Waucamaw. Pero por el camino se topa con un anciano y su nieta Ellie, una niña destrozada porque acaba de perder a su padre en la guerra de Irak.",
+        "precio": "480",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/cenizas.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "3",
+        "nombre": "UBIK",
+        "sinopsis": "Esta mordaz comedia metafísica de muerte y salvación (que podrá llevar en un cómodo envase) es un tour de force de amenaza paranoica y comedia absurda, en la cual los muertos ofrecen consejos comerciales, compran su siguiente reencarnación y corren el riesgo continuo de volver a morir.",
+        "precio": "485",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/ubik.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "4",
+        "nombre": "SW LUZ DE LOS JEDI",
+        "sinopsis": "Cuando una impactante catástrofe en el hiperespacio hace pedazos una nave, la lluvia de metralla que emerge del desastre amenaza a todo un sistema. Los Jedi acuden a toda velocidad cuando llega su petición de auxilio. Sin embargo, el alcance de la emergencia lleva a los Jedi hasta su límite.",
+        "precio": "510",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/luzdelosjedi.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "5",
+        "nombre": "SW EL RENACER DE LA RESISTENCIA",
+        "sinopsis": "La Resistencia está en ruinas. Tras su huida desesperada de Crait, su antiguo ejército ha quedado reducido a un puñado de héroes heridos. Finn, Poe, Rey, Rose, Chewbacca, Leia Organa… sus nombres son célebres en los mundos oprimidos por cuya libertad combaten.",
+        "precio": "515",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/elrenacerdelaresistencia.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "6",
+        "nombre": "SW EN LA OSCURIDAD",
+        "sinopsis": "A regañadientes, Reath embarca en la nave que lo llevará a él y a otros Jedis a la baliza. Sin embargo, durante el viaje surge un problema en el hiperespacio que deja varada a la nave, y el refugio más cercano es una inquietante estación espacial abandonada.",
+        "precio": "495",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/enlaoscuridad.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "7",
+        "nombre": "NEUROMANTE",
+        "sinopsis": "Un futuro invadido por microprocesadores, en el que la información es la materia prima. Vaqueros como Henry Dorrett Case se ganan la vida hurtando información, traspasando defensas electrónicas, bloques tangibles y luminosos, como rascacielos geométricos.",
+        "precio": "530",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/neuromante.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "8",
+        "nombre": "CIUDADES DE FUEGO",
+        "sinopsis": "En un mundo donde todo está a punto de desmoronarse, Alice sabe que las decisiones que tome serán cruciales para el destino de todos. Cuando parece que te lo han arrebatado todo, ¿hasta dónde serías capaz de llegar por los tuyos?",
+        "precio": "490",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/ciudaddefuego.png",
+        "idCategoria":"1"
+    },
+    {
+        "id": "9",
+        "nombre": "CIUDADES DE HUMO",
+        "sinopsis": "Alice nunca ha visto el mundo. Su vida está resumida entre las cuatro paredes y veinte personas que ve a diario. Su cena es a las nueve en punto, su sueño dura exactamente ocho horas, jamás tiene una sola arruga en la ropa, parpadea 86400 veces al día, respira 30000 veces al día, solo habla cuando le preguntan, jamás ha ido al exterior, jamás ha levantado la voz y, lo más importante, jamás se ha preguntado qué pasaría si todo cambiara. Pero, ¿y si eso ocurriera? En un mundo donde la libertad está controlada, ¿hasta dónde serías capaz de llegar para recuperarla? ¿Hasta dónde serías capaz de llegar para sobrevivir?",
+        "precio": "520",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/ciudaddehumo.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "10",
+        "nombre": "EL LIBRO DE LOS PORTALES",
+        "sinopsis": "Cuando Tabit, estudiante de último año en la Academia, recibe el encargo de pintar un portal para un humilde campesino, no imagina que está a punto de verse involucrado en una trama de intrigas y secretos que podría sacudir los mismos cimientos de la institución.",
+        "precio": "650",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/ellibrodelosportales.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "11",
+        "nombre": "LA GRAN CATASTROFE AMARILLA",
+        "sinopsis": "Juanjo embarca en el Costa Deliziosa y, en plena navegación, surge la pandemia del coronavirus. Lo que se presentaba como un viaje de placer se convierte en un caos. El escritor lleva un cuaderno de bitácora en el que registra las incidencias de cada día.",
+        "precio": "600",
+        "genero": "CienciaFiccion",
+        "img": "../images/cficcion/lagrancatastrofeamarilla.jpg",
+        "idCategoria":"1"
+    },
+    {
+        "id": "12",
+        "nombre": "FORASTERA",
+        "sinopsis": "Recién acabada la Segunda Guerra Mundial, una joven pareja se reúne por fin para pasar sus vacaciones en Escocia. Una tarde, cuando pasea sola por la pradera, Claire se acerca a un círculo de piedras antiquísimas y cae de pronto en un extraño trance.",
+        "precio": "630",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/forastera.jpg",
+        "idCategoria":"2"
+    },
+    {
+        "id": "13",
+        "nombre": "UN AMOR MARAVILLOSO",
+        "sinopsis": "Arrojada al siempre fascinante mundo de la alta sociedad londinense, el espíritu libre que es Alexandra está atrapado en una intrincada telaraña de celos y venganza, tormentoso orgullo y pasión irresistible. Pero tras la máscara de frialdad y arrogancia de su esposo habita un hombre tierno, vital y sensual..",
+        "precio": "640",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/unamormaravilloso.jpg",
+        "idCategoria":"2"
+    },
+    {
+        "id": "14",
+        "nombre": "TAMPOCO PIDO TANTO",
+        "sinopsis": "Carol trabaja como bailarina en distintos espectáculos, aunque su sueño es volver a ejercer de tripulante de cabina de pasajeros, y la oportunidad se le presenta en la compañía High Drogo. Daryl es comandante y viaja por todo el mundo pilotando aviones de dicha compañía.",
+        "precio": "410",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/tampocopidotanto.jpg",
+        "idCategoria":"2"
+    },
+    {
+        "id": "15",
+        "nombre": "UN CORAZON ENTRE TU Y YO",
+        "sinopsis": "Una nueva entrega de «Las guerreras Maxwell». Darse una nueva oportunidad en el amor tras una triste pérdida no significa olvidar, sino vivir y avanzar. En su lecho de muerte, Harald Hermansen le prometió a su amada Ingrid que dejaría Noruega y se trasladaría a vivir en Escocia.",
+        "precio": "590",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/uncorazonentretuyyo.png",
+        "idCategoria":"2"
+    },
+    {
+        "id": "16",
+        "nombre": "EL AMOR EN LOS TIEMPOS DE COLERA",
+        "sinopsis": "De joven, Ariza se enamora de Fermina Daza, con quien tras mucho empeño, comienza una relación que es desaprobada por los padres de ella. El romance termina ahí, pese a la promesa de amor eterno que le hace Ariza a Fermina.",
+        "precio": "700",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/elamorentiemposdelcolera.jpg",
+        "idCategoria":"2"
+    },
+    
+    {
+        "id": "18",
+        "nombre": "ESTA NOCHE DIME QUE ME QUIERES",
+        "sinopsis": "Tancredi es uno de los hombres más ricos del mundo. Joven, apuesto y brillante, es incapaz de entregarse al amor por culpa de un terrible incidente ocurrido años atrás. Sofia era una joven promesa del piano, hasta que una estúpida discusión con su novio Andrea cambió su vida para siempre. Alegre y soñadora, decidió aparcar su carrera y sus sueños para cuidar de Andrea, en silla de ruedas tras aquella fatídica noche. Tancredi y Sofia. Dos mundos diferentes, opuestos, como el día y la noche, se verán unidos, al fin, por la lluvia y el destino.",
+        "precio": "580",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/estanochedimequemequieres.jpg",
+        "idCategoria":"2"
+    },
+    {
+        "id": "19",
+        "nombre": "QUIEN ERES",
+        "sinopsis": "Martina es profesora y se resiste a tener que comunicarse con las personas a través de una pantalla, algo que se está poniendo muy de moda en la España de los noventa. Los chats atraen a todo el mundo, pero, sin duda, comienzan a ser una gran fuente de problemas.",
+        "precio": "465",
+        "genero": "novelasRomanticas",
+        "img": "../images/novelas/quieneres.jpg",
+        "idCategoria":"2"
+    },
+    {
+        "id": "20",
+        "nombre": "SE NECESITA UN SUPERHEROE",
+        "sinopsis": "¿Quién no ha sentido alguna vez que la vida se le ha puesto color de hormiga? Para Nico, las agresiones de Beto se han convertido en un problema y piensa que la única solución es buscar un superhéroe que lo salve. Zico, su perro y mejor amigo, lo ayuda en tal propósito.",
+        "precio": "380",
+        "genero": "infantil",
+        "img": "../images/infantiles/senecesitaunsuperheroe.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "21",
+        "nombre": "EL CLUB DEL FRIJOL",
+        "sinopsis": "Un grupo de chicos decide emprender una nueva aventura: descubrir por qué los frijoles en los sembradíos de Buena Vista han estado desapareciendo. En el árbol favorito de nuestros chicos se aloja una pequeña criatura que se convierte en testigo de una serie de sucesos sorprendentes.",
+        "precio": "500",
+        "genero": "infantil",
+        "img": "../images/infantiles/elclubdelfrijol.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "22",
+        "nombre": "EL ESCARABAJO DE ORO Y OTROS CUENTOS",
+        "sinopsis": "La vida de tres hombres, William Legrand, su fiel criado Júpiter y el propio narrador, está a punto de cambiar para siempre. Todo comienza con el hallazgo casual por Legrand, entomólogo aficionado, de un ejemplar de escarabajo de una especie desconocida hasta el momento.",
+        "precio": "610",
+        "genero": "infantil",
+        "img": "../images/infantiles/elescarabahodeoro.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "23",
+        "nombre": "EL GATO QUE DESAPARECIO MISTERIOSAMENTE",
+        "sinopsis": "¡Vuelven los Gaskitt! En la ciudad se registra una gran agitación. Han desaparecido todas las mascotas. La gente las busca, pone carteles, llama a la policía... Mientras tanto, los animales perdidos se van amontonando en la casa de un ladrón que quiere venderlos.",
+        "precio": "570",
+        "genero": "infantil",
+        "img": "../images/infantiles/elgatoquedesaparecio.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "24",
+        "nombre": "EL LIBRO DE TODOS LOS MIEDOS Y UNOS CUANTOS MAS",
+        "sinopsis": "Todos sabemos que no siempre se puede ser valiente. Pero Tepe es un caso excepcional: este ratoncito de peluche lila vive atemorizado por todo a su alrededor. Su lista de miedos incluye ya todos los que existen, y diariamente agrega uno nuevo.",
+        "precio": "540",
+        "genero": "infantil",
+        "img": "../images/infantiles/ellibrodetodoslosmiedos.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "25",
+        "nombre": "EL OSO QUE NO LO ERA",
+        "sinopsis": "Un oso se interna en una cueva por su larga siesta invernal, y mientras duerme el progreso del hombre continúa y construyen una fábrica sobre el bosque donde su cueva se ubica. Se despierta para encontrarse a sí mismo en medio de un complejo industrial.",
+        "precio": "520",
+        "genero": "infantil",
+        "img": "../images/infantiles/elosoquenoloera.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "26",
+        "nombre": "EL REGALO DE CUMPLEANOS",
+        "sinopsis": "Seis cuentos cargados de ternura y gran profundidad, historias que hablan del amor a los demás, del respeto a la vida y del significado de la verdadera amistad. Adecuados para la reflexión sobre los valores.",
+        "precio": "350",
+        "genero": "infantil",
+        "img": "../images/infantiles/elregalosdecumpleanos.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "27",
+        "nombre": "HASTA LA CORONILLA",
+        "sinopsis": "El príncipe Sinpapis organiza un concurso de adopción para elegir una familia. Los candidatos deben enviar cartas contando su historia. Es así cómo se presenta ante él una galería de insólitos padres y no menos increíbles aspirantes a hermanos. Sinpapis, tiene una difícil elección por delante.",
+        "precio": "520",
+        "genero": "infantil",
+        "img": "../images/infantiles/hastalacoronilla.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "28",
+        "nombre": "LA CAJA DE LOS SUENOS",
+        "sinopsis": "En el cole de Lucas cada niño tiene una caja mágica que vibra cuando su dueño descubre lo que de verdad le gusta hacer, regalándole algún objeto relacionado para que convierta su sueño en realidad. ¿Conseguirá Lucas hacer vibrar su caja de los sueños?",
+        "precio": "430",
+        "genero": "infantil",
+        "img": "../images/infantiles/lacasadelossuenos.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "29",
+        "nombre": "OSCAR TIENE FRIO",
+        "sinopsis": "Óscar ha pasado todo el invierno durmiendo en su cueva. Por fin llega el buen tiempo, pero él no consigue librarse del frío. Sus amigos le ofrecen varias soluciones, pero ninguna funciona. Sólo Milagros, su amiga osa, sabrá cómo ayudarlo. A veces, los amigos son el mejor remedio contra el frío. Una historia para leerse en compañía y recordar el valor de la amistad y los abrazos.",
+        "precio": "495",
+        "genero": "infantil",
+        "img": "../images/infantiles/oscartienefrio.jpg",
+        "idCategoria":"3"
+    },
+    {
+        "id": "30",
+        "nombre": "ESTO ES MARKETING",
+        "sinopsis": "El marketing lleva tanto tiempo entre nosotros que lo damos por hecho. Como el pez que no entiende el agua en el que vive, no vemos lo que realmente está pasando y no nos damos cuenta de cómo nos está cambiando. Ha llegado la hora de hacer algo más. De mejorar las cosas.",
+        "precio": "710",
+        "genero": "empresarial",
+        "img": "../images/empresarial/estoesmarketing.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "31",
+        "nombre": "CREA Y DIVAGA",
+        "sinopsis": "El creador y CEO de Amazon nos revela los principios fundamentales que lo han guiado en la creación, dirección y transformación de esta compañía. Crea y divaga ofrece un acceso privilegiado a sus orígenes, su trabajo, la evolución de sus ideas y su peculiar cosmovisión, siempre proyectada sobre un horizonte muy lejano.",
+        "precio": "730",
+        "genero": "empresarial",
+        "img": "../images/empresarial/creaydivaga.png",
+        "idCategoria":"4"
+    },
+    {
+        "id": "32",
+        "nombre": "MANUAL PARA IRREVERENTES",
+        "sinopsis": "Juan Diego Gómez Gómez retorna con un provocador y desafiante libro, destinado a todos aquellos que saben que están para mucho más de lo que han hecho, para los que agradecen pero no se conforman, para quienes se cansaron de vivir la vida que otros quieren que vivan, para los que se reconocen como únicos y que van por todo lo que merecen.",
+        "precio": "780",
+        "genero": "empresarial",
+        "img": "../images/empresarial/manualparairreverentes.png",
+        "idCategoria":"4"
+    },
+    {
+        "id": "33",
+        "nombre": "CRECE Y HAZTE RICO",
+        "sinopsis": "Tomando su propia historia como ejemplo, Romuald Fons, «el rey del SEO», te desvela las 51 leyes que lo han guiado de la pobreza más absoluta a un legado de riqueza personal y éxito empresarial.",
+        "precio": "680",
+        "genero": "empresarial",
+        "img": "../images/empresarial/creceyhazterico.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "34",
+        "nombre": "CUATRO MIL SEMANAS",
+        "sinopsis": "La vida media del ser humano es ridículamente breve: si llegas a los 80 años, habrás vivido unas 4000 semanas. Si tienes 40, solo te quedan 2000. Sin embargo, estamos obsesionados con interminables listas de tareas pendientes, buzones saturados de correos sin leer y la sensación de que nunca llegamos a todo. La mayoría de los consejos sobre gestión de tiempo fomentan la idea de que un día podremos «hacerlo todo» y convertirnos en los dueños de nuestro tiempo, totalmente optimizados y emocionalmente invencibles.",
+        "precio": "635",
+        "genero": "empresarial",
+        "img": "../images/empresarial/cuatromilsemanas.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "35",
+        "nombre": "DE CERO A RICO",
+        "sinopsis": "Juan Diego Gómez Gómez, autor de cuatro best sellers, presenta en este sorprendente e inspirador libro, ideas sobre cómo progresar a partir de cero, tal y como él lo hizo. Con nuevas revelaciones, sugerencias prácticas y lecciones útiles, el autor te lleva de la mano a explotar tu potencial y vivir una vida más próspera y feliz. ",
+        "precio": "740",
+        "genero": "empresarial",
+        "img": "../images/empresarial/deceroarico.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "36",
+        "nombre": "NEURO ORATORIA",
+        "sinopsis": "En los últimos cuatro años, el conocimiento neurocientífico aplicado al mundo de los negocios ha avanzado más que en los anteriores treinta años.",
+        "precio": "450",
+        "genero": "empresarial",
+        "img": "../images/empresarial/neurooratoria.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "37",
+        "nombre": "BUFFETOLOGIA",
+        "sinopsis": "Gracias a las revelaciones de su círculo más cercano, las técnicas del Oráculo de Omaha salen a la luz a través del estudio más exhaustivo de su cartera de acciones. Aquí no encontrarás una biografía repleta de anécdotas, sino que conocerás la fórmula del éxito financiero a través de conceptos, modelos matemáticos y casos concretos de empresas que fueron adquiridas por Buffett.",
+        "precio": "535",
+        "genero": "empresarial",
+        "img": "../images/empresarial/buffetologia.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "38",
+        "nombre": "COACHING DE EQUIPOS",
+        "sinopsis": "écnicas, herramientas, dinámicas y conocimientos necesarios en el Coaching de Equipos.Mediante una clara exposición de conceptos y situaciones basadas en la experiencia y conocimiento de sus autores, se desarrolla un manual de obligada lectura para aquellos que facilitan el cambio en los equipos. Una guía práctica para coaches, formadores, consultores y líderes que desean conocer mejor las realidades de sus equipos, y fomentar el desarrollo de los mismos. ",
+        "precio": "560",
+        "genero": "empresarial",
+        "img": "../images/empresarial/coaching.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "39",
+        "nombre": "CONECTATE CON EL DINERO",
+        "sinopsis": "LA GENTE DICE QUE LE GUSTA EL DINERO, PERO EN ESTE LIBRO DESCUBRIRÁS QUE LO QUE TE GUSTA ES LO QUE COMPRA Y NADA MÁS, por esto es que 7 de cada 10 personas le tienen miedo al dinero y no se conectan bien con él.",
+        "precio": "620",
+        "genero": "empresarial",
+        "img": "../images/empresarial/conectateconeldinero.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "40",
+        "nombre": "NUEVE GIGANTES",
+        "sinopsis": "Un plan concreto para frenar las ambiciones de los 9 gigantes tecnológicos que gobiernan el mundo y recuperar el control de nuestro destino.",
+        "precio": "630",
+        "genero": "empresarial",
+        "img": "../images/empresarial/nuevegigantes.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "41",
+        "nombre": "PRINCIPIOS PARA ENFRENTARSE AL NUEVO ORDEN MUNDIAL",
+        "sinopsis": "Los tiempos que vienen serán radicalmente diferentes a los que hemos vivido hasta ahora, pero se parecerán mucho a otras etapas de la historia. Esta es la principal conclusión a la que ha llegado el experto inversor Ray Dalio, después de un titánico estudio de episodios análogos al presente en los últimos quinientos años: los ciclos históricos siempre han sido muy similares entre ellos.",
+        "precio": "670",
+        "genero": "empresarial",
+        "img": "../images/empresarial/nuevoordenmundial.jpg",
+        "idCategoria":"4"
+    },
+    {
+        "id": "42",
+        "nombre": "EL HALCON MALTES",
+        "sinopsis": "Cuando tras mil peripecias llega a la ciudad de San Francisco, un grupo de delincuentes trata de apoderarse de ella, lo que da lugar a conflictos, asesinatos y pasiones exacerbadas.",
+        "precio": "640",
+        "genero": "policiales",
+        "img": "../images/policiales/elhalconmaltes.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "43",
+        "nombre": "HUERFANOS DE BROOKLYN",
+        "sinopsis": "El asesinato de Frank le obligará a sumergirse en la trama, compleja y llena de sombras, de relaciones, amenazas y favores que conforman el Brooklyn que él creía conocer tan bien y donde nadie es lo que parece.",
+        "precio": "435",
+        "genero": "policiales",
+        "img": "../images/policiales/huerfanosdebrooklyn.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "44",
+        "nombre": "EL ESPIA QUE SURGIO DEL FRIO",
+        "sinopsis": "A la sombra del reciente Muro de Berlín, Alec Leamas asiste al asesinato de su último agente, muerto de un disparo a manos de los guardias de la RDA. Para Leamas, antiguo responsable del espionaje inglés en Alemania Oriental, la guerra fría se ha acabado.",
+        "precio": "530",
+        "genero": "policiales",
+        "img": "../images/policiales/elespiaquesurgiodelfrio.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "45",
+        "nombre": "LA HIJA DEL TIEMPO",
+        "sinopsis": "La hija del tiempo (en inglés, The Daughter of Time) es una novela detectivesca de 1951 obra de Josephine Tey, sobre la investigación de un oficial de policía moderno sobre los presuntos crímenes del rey Ricardo III de Inglaterra. Fue el último libro que publicó Tey en su vida, poco antes de su muerte.",
+        "precio": "580",
+        "genero": "policiales",
+        "img": "../images/policiales/lahijadeltiempo.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "46",
+        "nombre": "EL MISTERIOSO CASO DE STYLES",
+        "sinopsis": "Essex, Inglaterra. En la mansión Styles, la millonaria Emily Inglethorp es encontrada muerta en su cama, aparentemente víctima de un ataque cardíaco. Las puertas del cuarto estaban cerradas por dentro y todo indica una muerte natural. Pero el médico de la familia levanta una sospecha: asesinato por envenenamiento.",
+        "precio": "610",
+        "genero": "policiales",
+        "img": "../images/policiales/elmisteriosocasodestyles.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "47",
+        "nombre": "LOS PERROS DE RIGA",
+        "sinopsis": "Acosado por sus problemas de salud, sus remordimientos por desatender a su anciano padre o la angustia por la separación de su mujer y la pérdida de contacto con su hija, la vida del inspector dará un vuelco cuando conozca a Baiba Lepa, una mujer que agregará a los conflictos políticos de Letonia las turbulencias ...",
+        "precio": "730",
+        "genero": "policiales",
+        "img": "../images/losperrosderiga.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "48",
+        "nombre": "LA PRINCESA DE HIELO",
+        "sinopsis": "Cuando la joven escritora Erica vuelve a su pueblo natal tras el fallecimiento de sus padres, no se puede ni imaginar que se verá envuelta en la truculenta historia de un crimen cuyos protagonistas no son otros que sus propios amigos de la infancia.",
+        "precio": "710",
+        "genero": "policiales",
+        "img": "../images/policiales/laprincesadehielo.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "49",
+        "nombre": "NO HAY CUERVOS",
+        "sinopsis": "Con trece años, Johnny Merrimon tiene que enfrentarse a situaciones que ningún chico de su edad debería afrontar. En el año transcurrido desde la desaparición de su hermana melliza, Alyssa, su mundo se ha venido abajo: su padre les ha dejado y su frágil madre se encuentra inmersa en una espiral de autodestrucción.",
+        "precio": "690",
+        "genero": "policiales",
+        "img": "../images/policiales/nohaycuervos.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "50",
+        "nombre": "LOS CRIMENES DE LA CALLE MORGUE",
+        "sinopsis": "Los crímenes de la calle Morgue es considerada como la primera historia policiaca de la literatura. Contenido: Al joven francés C. August Dupin le llama la atención un informe periodístico sobre un misterioso doble asesinato en París. Junto con un amigo, estudia todos los testimonios y examina la escena del crimen.",
+        "precio": "750",
+        "genero": "policiales",
+        "img": "../images/policiales/loscrimenesdelacallemorgue.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "51",
+        "nombre": "ESTUDIO EN ESCARLATA",
+        "sinopsis": "Un cadáver hallado en extrañas circunstancias pone en marcha los reflejos deductivos de Holmes, mientras la policía oficial se pierde en divagaciones equivocadas o arresta a inocentes ciudadanos. Un nuevo asesinato parece complicar la historia, pero a Holmes se la aclara.",
+        "precio": "790",
+        "genero": "policiales",
+        "img": "../images/policiales/estudioenescarlata.jpg",
+        "idCategoria":"5"
+    },
+    {
+        "id": "52",
+        "nombre": "LA VERDAD SOBRE EL CASO HARRY QUEBERT",
+        "sinopsis": "En 2008, Marcus Goldman, un joven escritor, visita a su mentor -Harry Quebert, autor de una aclamada novela- y descubre que éste tuvo una relación secreta con Nola Kellergan. Poco después, Harry es arrestado y acusado de asesinato al encontrarse el cadáver de Nola enterrado en su jardín.",
+        "precio": "640",
+        "genero": "Policiales",
+        "img": "../images/policiales/laverdadsobreelcasoharryquebert.jpg",
+        "idCategoria":"5"
+    }
+]

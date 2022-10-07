@@ -1,4 +1,4 @@
-import React from 'react';
+import {Link} from 'react-router-dom';
 import CartWidget from './CartWidget';
 import ItemListContainer from './ItemListContainer';
 
@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#">Principal</a>
+                <Link className="nav-link" to={"/"}><i className="fa-solid fa-house" />Principal</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" />
                 </button>
@@ -16,13 +16,11 @@ const Navbar = () => {
                     <ul className="navbar-nav me-auto">
                     <ItemListContainer />
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Medios de pago</a>
+                            <Link className="nav-link" to={"/About"}>Acerca nuestro</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Acerca nuestro</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">Contacto</a>
+                            <Link className="nav-link" to={"/Contacto"}>Contacto</Link>
+                            <a  href="#"></a>
                         </li>
                     </ul>
                    
