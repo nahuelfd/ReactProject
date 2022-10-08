@@ -6,7 +6,7 @@
         "precio": "500",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/halo.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "2",
@@ -15,7 +15,7 @@
         "precio": "480",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/cenizas.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "3",
@@ -24,7 +24,7 @@
         "precio": "485",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/ubik.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "4",
@@ -33,7 +33,7 @@
         "precio": "510",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/luzdelosjedi.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "5",
@@ -42,7 +42,7 @@
         "precio": "515",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/elrenacerdelaresistencia.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "6",
@@ -51,7 +51,7 @@
         "precio": "495",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/enlaoscuridad.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "7",
@@ -60,7 +60,7 @@
         "precio": "530",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/neuromante.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "8",
@@ -69,7 +69,7 @@
         "precio": "490",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/ciudaddefuego.png",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "9",
@@ -78,7 +78,7 @@
         "precio": "520",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/ciudaddehumo.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "10",
@@ -87,7 +87,7 @@
         "precio": "650",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/ellibrodelosportales.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "11",
@@ -96,7 +96,7 @@
         "precio": "600",
         "genero": "CienciaFiccion",
         "img": "../images/cficcion/lagrancatastrofeamarilla.jpg",
-        "idCategoria":"1"
+        "idCategoria":"cienciaFiccion"
     },
     {
         "id": "12",
@@ -105,7 +105,7 @@
         "precio": "630",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/forastera.jpg",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "13",
@@ -114,7 +114,7 @@
         "precio": "640",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/unamormaravilloso.jpg",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "14",
@@ -122,8 +122,8 @@
         "sinopsis": "Carol trabaja como bailarina en distintos espectáculos, aunque su sueño es volver a ejercer de tripulante de cabina de pasajeros, y la oportunidad se le presenta en la compañía High Drogo. Daryl es comandante y viaja por todo el mundo pilotando aviones de dicha compañía.",
         "precio": "410",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/tampocopidotanto.jpg",
-        "idCategoria":"2"
+        "img": "../images/novelas/tampocopidotanto.png",
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "15",
@@ -132,7 +132,7 @@
         "precio": "590",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/uncorazonentretuyyo.png",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "16",
@@ -141,7 +141,7 @@
         "precio": "700",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/elamorentiemposdelcolera.jpg",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     
     {
@@ -151,7 +151,7 @@
         "precio": "580",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/estanochedimequemequieres.jpg",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "19",
@@ -160,7 +160,7 @@
         "precio": "465",
         "genero": "novelasRomanticas",
         "img": "../images/novelas/quieneres.jpg",
-        "idCategoria":"2"
+        "idCategoria":"novelasRomanticas"
     },
     {
         "id": "20",
@@ -169,7 +169,7 @@
         "precio": "380",
         "genero": "infantil",
         "img": "../images/infantiles/senecesitaunsuperheroe.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "21",
@@ -178,7 +178,7 @@
         "precio": "500",
         "genero": "infantil",
         "img": "../images/infantiles/elclubdelfrijol.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "22",
@@ -186,8 +186,8 @@
         "sinopsis": "La vida de tres hombres, William Legrand, su fiel criado Júpiter y el propio narrador, está a punto de cambiar para siempre. Todo comienza con el hallazgo casual por Legrand, entomólogo aficionado, de un ejemplar de escarabajo de una especie desconocida hasta el momento.",
         "precio": "610",
         "genero": "infantil",
-        "img": "../images/infantiles/elescarabahodeoro.jpg",
-        "idCategoria":"3"
+        "img": "../images/infantiles/elescarabajodeoro.jpg",
+        "idCategoria":"infantil"
     },
     {
         "id": "23",
@@ -196,7 +196,7 @@
         "precio": "570",
         "genero": "infantil",
         "img": "../images/infantiles/elgatoquedesaparecio.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "24",
@@ -205,7 +205,7 @@
         "precio": "540",
         "genero": "infantil",
         "img": "../images/infantiles/ellibrodetodoslosmiedos.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "25",
@@ -214,7 +214,7 @@
         "precio": "520",
         "genero": "infantil",
         "img": "../images/infantiles/elosoquenoloera.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "26",
@@ -222,8 +222,8 @@
         "sinopsis": "Seis cuentos cargados de ternura y gran profundidad, historias que hablan del amor a los demás, del respeto a la vida y del significado de la verdadera amistad. Adecuados para la reflexión sobre los valores.",
         "precio": "350",
         "genero": "infantil",
-        "img": "../images/infantiles/elregalosdecumpleanos.jpg",
-        "idCategoria":"3"
+        "img": "../images/infantiles/elregalodecumpleanos.jpg",
+        "idCategoria":"infantil"
     },
     {
         "id": "27",
@@ -232,7 +232,7 @@
         "precio": "520",
         "genero": "infantil",
         "img": "../images/infantiles/hastalacoronilla.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "28",
@@ -240,8 +240,8 @@
         "sinopsis": "En el cole de Lucas cada niño tiene una caja mágica que vibra cuando su dueño descubre lo que de verdad le gusta hacer, regalándole algún objeto relacionado para que convierta su sueño en realidad. ¿Conseguirá Lucas hacer vibrar su caja de los sueños?",
         "precio": "430",
         "genero": "infantil",
-        "img": "../images/infantiles/lacasadelossuenos.jpg",
-        "idCategoria":"3"
+        "img": "../images/infantiles/lacajadelossuenos.jpg",
+        "idCategoria":"infantil"
     },
     {
         "id": "29",
@@ -250,7 +250,7 @@
         "precio": "495",
         "genero": "infantil",
         "img": "../images/infantiles/oscartienefrio.jpg",
-        "idCategoria":"3"
+        "idCategoria":"infantil"
     },
     {
         "id": "30",
@@ -259,7 +259,7 @@
         "precio": "710",
         "genero": "empresarial",
         "img": "../images/empresarial/estoesmarketing.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "31",
@@ -268,7 +268,7 @@
         "precio": "730",
         "genero": "empresarial",
         "img": "../images/empresarial/creaydivaga.png",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "32",
@@ -277,7 +277,7 @@
         "precio": "780",
         "genero": "empresarial",
         "img": "../images/empresarial/manualparairreverentes.png",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "33",
@@ -286,7 +286,7 @@
         "precio": "680",
         "genero": "empresarial",
         "img": "../images/empresarial/creceyhazterico.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "34",
@@ -295,7 +295,7 @@
         "precio": "635",
         "genero": "empresarial",
         "img": "../images/empresarial/cuatromilsemanas.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "35",
@@ -304,7 +304,7 @@
         "precio": "740",
         "genero": "empresarial",
         "img": "../images/empresarial/deceroarico.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "36",
@@ -313,7 +313,7 @@
         "precio": "450",
         "genero": "empresarial",
         "img": "../images/empresarial/neurooratoria.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "37",
@@ -322,7 +322,7 @@
         "precio": "535",
         "genero": "empresarial",
         "img": "../images/empresarial/buffetologia.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "38",
@@ -331,7 +331,7 @@
         "precio": "560",
         "genero": "empresarial",
         "img": "../images/empresarial/coaching.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "39",
@@ -340,7 +340,7 @@
         "precio": "620",
         "genero": "empresarial",
         "img": "../images/empresarial/conectateconeldinero.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "40",
@@ -349,7 +349,7 @@
         "precio": "630",
         "genero": "empresarial",
         "img": "../images/empresarial/nuevegigantes.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "41",
@@ -358,7 +358,7 @@
         "precio": "670",
         "genero": "empresarial",
         "img": "../images/empresarial/nuevoordenmundial.jpg",
-        "idCategoria":"4"
+        "idCategoria":"empresarial"
     },
     {
         "id": "42",
@@ -367,7 +367,7 @@
         "precio": "640",
         "genero": "policiales",
         "img": "../images/policiales/elhalconmaltes.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "43",
@@ -376,7 +376,7 @@
         "precio": "435",
         "genero": "policiales",
         "img": "../images/policiales/huerfanosdebrooklyn.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "44",
@@ -385,7 +385,7 @@
         "precio": "530",
         "genero": "policiales",
         "img": "../images/policiales/elespiaquesurgiodelfrio.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "45",
@@ -394,7 +394,7 @@
         "precio": "580",
         "genero": "policiales",
         "img": "../images/policiales/lahijadeltiempo.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "46",
@@ -403,7 +403,7 @@
         "precio": "610",
         "genero": "policiales",
         "img": "../images/policiales/elmisteriosocasodestyles.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "47",
@@ -412,7 +412,7 @@
         "precio": "730",
         "genero": "policiales",
         "img": "../images/losperrosderiga.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "48",
@@ -421,7 +421,7 @@
         "precio": "710",
         "genero": "policiales",
         "img": "../images/policiales/laprincesadehielo.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "49",
@@ -430,7 +430,7 @@
         "precio": "690",
         "genero": "policiales",
         "img": "../images/policiales/nohaycuervos.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "50",
@@ -439,7 +439,7 @@
         "precio": "750",
         "genero": "policiales",
         "img": "../images/policiales/loscrimenesdelacallemorgue.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "51",
@@ -448,7 +448,7 @@
         "precio": "790",
         "genero": "policiales",
         "img": "../images/policiales/estudioenescarlata.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     },
     {
         "id": "52",
@@ -457,6 +457,6 @@
         "precio": "640",
         "genero": "Policiales",
         "img": "../images/policiales/laverdadsobreelcasoharryquebert.jpg",
-        "idCategoria":"5"
+        "idCategoria":"policiales"
     }
 ]
