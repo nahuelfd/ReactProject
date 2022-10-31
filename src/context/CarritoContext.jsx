@@ -29,9 +29,15 @@ const CarritoProvider = (props) => {
         setCarrito(structuredClone(aux))
     }
 
+    const clearCart = () => setCarrito([]);
+
+    const precioTotal = () => {
+        return carrito.reduce((prev, act) => prev + act.cantidad * act.precio, 0)
+    }
+
     return (
         <div>
-            <CarritoContext.Provider value={{carrito, agregarProducto, quitarProducto}}>
+            <CarritoContext.Provider value={{carrito, agregarProducto, quitarProducto, precioTotal, clearCart}}>
                     {props.children}
             </CarritoContext.Provider>
         </div>
