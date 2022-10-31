@@ -2,4 +2,32 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.button{
+  margin-top: 25px;
+  align-items: center;
+  text-align: center;
+}
 
+.backnumber{
+  background-color: white;
+  color: black;
+  padding: auto;
+  margin: auto;
+}
+
+.butnav{
+  color: black;
+  text-decoration: solid;
+  font-weight: 990;
+}
+
+.backnav{
+  background-color: white;
+}
+
+.backbut{
+  background-color: white;
+  text-decoration: solid;
+  color: black;
+  font-weight: bold;
+}

@@ -5,8 +5,9 @@
         "sinopsis": "Tiene instrucciones claras: no deben formar vínculos demasiado fuertes con ningún humano y deben esforzarse en ocultar sus cualidades sobrehumanas. Pero Beth, la más inexperta, rompe una de las reglas sagradas: se enamora de Xavier Woods, el chico más guapo del colegio e incluso llega a revelarle su secreto.",
         "precio": "500",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/halo.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fhalo.jpg?alt=media&token=e0c2924c-e854-483e-a4b8-49838c17be73",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "2",
@@ -14,8 +15,9 @@
         "sinopsis": "Cenizas se inicia con el viaje de Alex, una adolescente enferma que, tras haber perdido toda esperanza de recuperación, decide atravesar a solas los fríos bosques de Waucamaw. Pero por el camino se topa con un anciano y su nieta Ellie, una niña destrozada porque acaba de perder a su padre en la guerra de Irak.",
         "precio": "480",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/cenizas.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fcenizas.jpg?alt=media&token=bd3bec07-ea19-4a82-8027-d48b7cdb78dd",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "3",
@@ -23,8 +25,9 @@
         "sinopsis": "Esta mordaz comedia metafísica de muerte y salvación (que podrá llevar en un cómodo envase) es un tour de force de amenaza paranoica y comedia absurda, en la cual los muertos ofrecen consejos comerciales, compran su siguiente reencarnación y corren el riesgo continuo de volver a morir.",
         "precio": "485",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/ubik.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fubik.jpg?alt=media&token=d8344e12-c1f1-4ffd-b8f9-5c6a31f3b102",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "4",
@@ -32,8 +35,9 @@
         "sinopsis": "Cuando una impactante catástrofe en el hiperespacio hace pedazos una nave, la lluvia de metralla que emerge del desastre amenaza a todo un sistema. Los Jedi acuden a toda velocidad cuando llega su petición de auxilio. Sin embargo, el alcance de la emergencia lleva a los Jedi hasta su límite.",
         "precio": "510",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/luzdelosjedi.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fluzdelosjedi.jpg?alt=media&token=f0aedffc-7020-4db4-aef9-4780c0be9f2a",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "5",
@@ -41,8 +45,9 @@
         "sinopsis": "La Resistencia está en ruinas. Tras su huida desesperada de Crait, su antiguo ejército ha quedado reducido a un puñado de héroes heridos. Finn, Poe, Rey, Rose, Chewbacca, Leia Organa… sus nombres son célebres en los mundos oprimidos por cuya libertad combaten.",
         "precio": "515",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/elrenacerdelaresistencia.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felrenacerdelaresistencia.jpg?alt=media&token=01d2b1cf-ddd6-4d0f-b765-4076771ff289",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "6",
@@ -50,8 +55,9 @@
         "sinopsis": "A regañadientes, Reath embarca en la nave que lo llevará a él y a otros Jedis a la baliza. Sin embargo, durante el viaje surge un problema en el hiperespacio que deja varada a la nave, y el refugio más cercano es una inquietante estación espacial abandonada.",
         "precio": "495",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/enlaoscuridad.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fenlaoscuridad.jpg?alt=media&token=f5453868-ee51-4f0d-9d60-7abd5ecf6ba0",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "7",
@@ -59,8 +65,9 @@
         "sinopsis": "Un futuro invadido por microprocesadores, en el que la información es la materia prima. Vaqueros como Henry Dorrett Case se ganan la vida hurtando información, traspasando defensas electrónicas, bloques tangibles y luminosos, como rascacielos geométricos.",
         "precio": "530",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/neuromante.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fneuromante.jpg?alt=media&token=2fcfc00f-83d1-47bf-9ff4-bc3c35946476",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "8",
@@ -68,8 +75,9 @@
         "sinopsis": "En un mundo donde todo está a punto de desmoronarse, Alice sabe que las decisiones que tome serán cruciales para el destino de todos. Cuando parece que te lo han arrebatado todo, ¿hasta dónde serías capaz de llegar por los tuyos?",
         "precio": "490",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/ciudaddefuego.png",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fciudaddefuego.png?alt=media&token=845239e8-a2ab-4f18-8234-e7398f133c12",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "9",
@@ -77,8 +85,9 @@
         "sinopsis": "Alice nunca ha visto el mundo. Su vida está resumida entre las cuatro paredes y veinte personas que ve a diario. Su cena es a las nueve en punto, su sueño dura exactamente ocho horas, jamás tiene una sola arruga en la ropa, parpadea 86400 veces al día, respira 30000 veces al día, solo habla cuando le preguntan, jamás ha ido al exterior, jamás ha levantado la voz y, lo más importante, jamás se ha preguntado qué pasaría si todo cambiara. Pero, ¿y si eso ocurriera? En un mundo donde la libertad está controlada, ¿hasta dónde serías capaz de llegar para recuperarla? ¿Hasta dónde serías capaz de llegar para sobrevivir?",
         "precio": "520",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/ciudaddehumo.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fciudaddehumo.jpg?alt=media&token=e8b02580-b076-46e5-b2f9-2493b5aaab6c",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "10",
@@ -86,8 +95,9 @@
         "sinopsis": "Cuando Tabit, estudiante de último año en la Academia, recibe el encargo de pintar un portal para un humilde campesino, no imagina que está a punto de verse involucrado en una trama de intrigas y secretos que podría sacudir los mismos cimientos de la institución.",
         "precio": "650",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/ellibrodelosportales.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fellibrodelosportales.jpg?alt=media&token=6f4d9851-e6b5-492d-a41a-096317d34264",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "11",
@@ -95,8 +105,9 @@
         "sinopsis": "Juanjo embarca en el Costa Deliziosa y, en plena navegación, surge la pandemia del coronavirus. Lo que se presentaba como un viaje de placer se convierte en un caos. El escritor lleva un cuaderno de bitácora en el que registra las incidencias de cada día.",
         "precio": "600",
         "genero": "CienciaFiccion",
-        "img": "../images/cficcion/lagrancatastrofeamarilla.jpg",
-        "idCategoria":"cienciaFiccion"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flagrancatastrofeamarilla.jpg?alt=media&token=3a42b338-0f98-429b-a7b2-8b06350bed61",
+        "idCategoria":"cienciaFiccion",
+        "stock": 10
     },
     {
         "id": "12",
@@ -104,8 +115,9 @@
         "sinopsis": "Recién acabada la Segunda Guerra Mundial, una joven pareja se reúne por fin para pasar sus vacaciones en Escocia. Una tarde, cuando pasea sola por la pradera, Claire se acerca a un círculo de piedras antiquísimas y cae de pronto en un extraño trance.",
         "precio": "630",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/forastera.jpg",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fforastera.jpg?alt=media&token=2ff9d6f6-9d46-4d78-b803-f09dbec78788",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "13",
@@ -113,8 +125,9 @@
         "sinopsis": "Arrojada al siempre fascinante mundo de la alta sociedad londinense, el espíritu libre que es Alexandra está atrapado en una intrincada telaraña de celos y venganza, tormentoso orgullo y pasión irresistible. Pero tras la máscara de frialdad y arrogancia de su esposo habita un hombre tierno, vital y sensual..",
         "precio": "640",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/unamormaravilloso.jpg",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Funamormaravilloso.jpg?alt=media&token=a57f4586-3de3-46ba-bd43-407e7e539b33",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "14",
@@ -122,8 +135,9 @@
         "sinopsis": "Carol trabaja como bailarina en distintos espectáculos, aunque su sueño es volver a ejercer de tripulante de cabina de pasajeros, y la oportunidad se le presenta en la compañía High Drogo. Daryl es comandante y viaja por todo el mundo pilotando aviones de dicha compañía.",
         "precio": "410",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/tampocopidotanto.png",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Ftampocopidotanto.png?alt=media&token=925db8bf-4cf3-43dd-b2a8-e1c67ee7ca40",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "15",
@@ -131,8 +145,9 @@
         "sinopsis": "Una nueva entrega de «Las guerreras Maxwell». Darse una nueva oportunidad en el amor tras una triste pérdida no significa olvidar, sino vivir y avanzar. En su lecho de muerte, Harald Hermansen le prometió a su amada Ingrid que dejaría Noruega y se trasladaría a vivir en Escocia.",
         "precio": "590",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/uncorazonentretuyyo.png",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Funcorazonentretuyyo.png?alt=media&token=7620bb8f-6f37-4c3e-a861-1e714767425d",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "16",
@@ -140,8 +155,9 @@
         "sinopsis": "De joven, Ariza se enamora de Fermina Daza, con quien tras mucho empeño, comienza una relación que es desaprobada por los padres de ella. El romance termina ahí, pese a la promesa de amor eterno que le hace Ariza a Fermina.",
         "precio": "700",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/elamorentiemposdelcolera.jpg",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felamorentiemposdelcolera.jpg?alt=media&token=72f1f75e-ed43-4636-b988-dcd4ce03648f",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     
     {
@@ -150,8 +166,9 @@
         "sinopsis": "Tancredi es uno de los hombres más ricos del mundo. Joven, apuesto y brillante, es incapaz de entregarse al amor por culpa de un terrible incidente ocurrido años atrás. Sofia era una joven promesa del piano, hasta que una estúpida discusión con su novio Andrea cambió su vida para siempre. Alegre y soñadora, decidió aparcar su carrera y sus sueños para cuidar de Andrea, en silla de ruedas tras aquella fatídica noche. Tancredi y Sofia. Dos mundos diferentes, opuestos, como el día y la noche, se verán unidos, al fin, por la lluvia y el destino.",
         "precio": "580",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/estanochedimequemequieres.jpg",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Festanochedimequemequieres.jpg?alt=media&token=96672cca-dca8-4851-9f3d-8fa1d13d03cb",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "19",
@@ -159,8 +176,9 @@
         "sinopsis": "Martina es profesora y se resiste a tener que comunicarse con las personas a través de una pantalla, algo que se está poniendo muy de moda en la España de los noventa. Los chats atraen a todo el mundo, pero, sin duda, comienzan a ser una gran fuente de problemas.",
         "precio": "465",
         "genero": "novelasRomanticas",
-        "img": "../images/novelas/quieneres.jpg",
-        "idCategoria":"novelasRomanticas"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fquieneres.jpg?alt=media&token=a9cf2544-96ea-4d3e-ae6f-7bbc17aa2c02",
+        "idCategoria":"novelasRomanticas",
+        "stock": 10
     },
     {
         "id": "20",
@@ -168,8 +186,9 @@
         "sinopsis": "¿Quién no ha sentido alguna vez que la vida se le ha puesto color de hormiga? Para Nico, las agresiones de Beto se han convertido en un problema y piensa que la única solución es buscar un superhéroe que lo salve. Zico, su perro y mejor amigo, lo ayuda en tal propósito.",
         "precio": "380",
         "genero": "infantil",
-        "img": "../images/infantiles/senecesitaunsuperheroe.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fsenecesitaunsuperheroe.jpg?alt=media&token=f0f95b67-8150-430b-a6ed-f21c41afbcb2",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "21",
@@ -177,8 +196,9 @@
         "sinopsis": "Un grupo de chicos decide emprender una nueva aventura: descubrir por qué los frijoles en los sembradíos de Buena Vista han estado desapareciendo. En el árbol favorito de nuestros chicos se aloja una pequeña criatura que se convierte en testigo de una serie de sucesos sorprendentes.",
         "precio": "500",
         "genero": "infantil",
-        "img": "../images/infantiles/elclubdelfrijol.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felclubdelfrijol.jpg?alt=media&token=be9568c2-4984-4da8-b941-92272fcd42c3",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "22",
@@ -186,8 +206,9 @@
         "sinopsis": "La vida de tres hombres, William Legrand, su fiel criado Júpiter y el propio narrador, está a punto de cambiar para siempre. Todo comienza con el hallazgo casual por Legrand, entomólogo aficionado, de un ejemplar de escarabajo de una especie desconocida hasta el momento.",
         "precio": "610",
         "genero": "infantil",
-        "img": "../images/infantiles/elescarabajodeoro.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felescarabajodeoro.jpg?alt=media&token=3ff714d9-ec3c-496b-a8b3-56347e0e2078",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "23",
@@ -195,8 +216,9 @@
         "sinopsis": "¡Vuelven los Gaskitt! En la ciudad se registra una gran agitación. Han desaparecido todas las mascotas. La gente las busca, pone carteles, llama a la policía... Mientras tanto, los animales perdidos se van amontonando en la casa de un ladrón que quiere venderlos.",
         "precio": "570",
         "genero": "infantil",
-        "img": "../images/infantiles/elgatoquedesaparecio.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felgatoquedesaparecio.jpg?alt=media&token=467dad1e-4d2c-4e71-b7ce-ee1cb622218e",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "24",
@@ -204,8 +226,9 @@
         "sinopsis": "Todos sabemos que no siempre se puede ser valiente. Pero Tepe es un caso excepcional: este ratoncito de peluche lila vive atemorizado por todo a su alrededor. Su lista de miedos incluye ya todos los que existen, y diariamente agrega uno nuevo.",
         "precio": "540",
         "genero": "infantil",
-        "img": "../images/infantiles/ellibrodetodoslosmiedos.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fellibrodetodoslosmiedos.jpg?alt=media&token=d1c9abbc-11d2-4a81-ba74-c38776a1d8df",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "25",
@@ -213,8 +236,9 @@
         "sinopsis": "Un oso se interna en una cueva por su larga siesta invernal, y mientras duerme el progreso del hombre continúa y construyen una fábrica sobre el bosque donde su cueva se ubica. Se despierta para encontrarse a sí mismo en medio de un complejo industrial.",
         "precio": "520",
         "genero": "infantil",
-        "img": "../images/infantiles/elosoquenoloera.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felosoquenoloera.jpg?alt=media&token=c57643dd-9ea3-40cb-bfd0-91ec91858ee0",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "26",
@@ -222,8 +246,9 @@
         "sinopsis": "Seis cuentos cargados de ternura y gran profundidad, historias que hablan del amor a los demás, del respeto a la vida y del significado de la verdadera amistad. Adecuados para la reflexión sobre los valores.",
         "precio": "350",
         "genero": "infantil",
-        "img": "../images/infantiles/elregalodecumpleanos.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felregalodecumpleanos.jpg?alt=media&token=f7a4b2a2-efbc-4580-aca0-5d369fd34729",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "27",
@@ -231,8 +256,9 @@
         "sinopsis": "El príncipe Sinpapis organiza un concurso de adopción para elegir una familia. Los candidatos deben enviar cartas contando su historia. Es así cómo se presenta ante él una galería de insólitos padres y no menos increíbles aspirantes a hermanos. Sinpapis, tiene una difícil elección por delante.",
         "precio": "520",
         "genero": "infantil",
-        "img": "../images/infantiles/hastalacoronilla.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fhastalacoronilla.jpg?alt=media&token=9436850b-8980-42ae-9757-95001af7c0e9",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "28",
@@ -240,8 +266,9 @@
         "sinopsis": "En el cole de Lucas cada niño tiene una caja mágica que vibra cuando su dueño descubre lo que de verdad le gusta hacer, regalándole algún objeto relacionado para que convierta su sueño en realidad. ¿Conseguirá Lucas hacer vibrar su caja de los sueños?",
         "precio": "430",
         "genero": "infantil",
-        "img": "../images/infantiles/lacajadelossuenos.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flacajadelossuenos.jpg?alt=media&token=1e334d7e-a3d5-45f7-a014-6cbce1986a95",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "29",
@@ -249,8 +276,9 @@
         "sinopsis": "Óscar ha pasado todo el invierno durmiendo en su cueva. Por fin llega el buen tiempo, pero él no consigue librarse del frío. Sus amigos le ofrecen varias soluciones, pero ninguna funciona. Sólo Milagros, su amiga osa, sabrá cómo ayudarlo. A veces, los amigos son el mejor remedio contra el frío. Una historia para leerse en compañía y recordar el valor de la amistad y los abrazos.",
         "precio": "495",
         "genero": "infantil",
-        "img": "../images/infantiles/oscartienefrio.jpg",
-        "idCategoria":"infantil"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Foscartienefrio.jpg?alt=media&token=69bacfc6-82e1-4466-931a-5ad9ba6bb009",
+        "idCategoria":"infantil",
+        "stock": 10
     },
     {
         "id": "30",
@@ -258,8 +286,9 @@
         "sinopsis": "El marketing lleva tanto tiempo entre nosotros que lo damos por hecho. Como el pez que no entiende el agua en el que vive, no vemos lo que realmente está pasando y no nos damos cuenta de cómo nos está cambiando. Ha llegado la hora de hacer algo más. De mejorar las cosas.",
         "precio": "710",
         "genero": "empresarial",
-        "img": "../images/empresarial/estoesmarketing.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Festoesmarketing.jpg?alt=media&token=1a8c597e-d3a7-4795-8d6d-69d67c9cf51e",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "31",
@@ -267,8 +296,9 @@
         "sinopsis": "El creador y CEO de Amazon nos revela los principios fundamentales que lo han guiado en la creación, dirección y transformación de esta compañía. Crea y divaga ofrece un acceso privilegiado a sus orígenes, su trabajo, la evolución de sus ideas y su peculiar cosmovisión, siempre proyectada sobre un horizonte muy lejano.",
         "precio": "730",
         "genero": "empresarial",
-        "img": "../images/empresarial/creaydivaga.png",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fcreaydivaga.png?alt=media&token=ced5a2fd-717b-477f-84cb-3ee16a35d2bf",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "32",
@@ -276,8 +306,9 @@
         "sinopsis": "Juan Diego Gómez Gómez retorna con un provocador y desafiante libro, destinado a todos aquellos que saben que están para mucho más de lo que han hecho, para los que agradecen pero no se conforman, para quienes se cansaron de vivir la vida que otros quieren que vivan, para los que se reconocen como únicos y que van por todo lo que merecen.",
         "precio": "780",
         "genero": "empresarial",
-        "img": "../images/empresarial/manualparairreverentes.png",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fmanualparairreverentes.png?alt=media&token=14e4ea14-1951-4bec-9b85-424100dd5857",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "33",
@@ -285,8 +316,9 @@
         "sinopsis": "Tomando su propia historia como ejemplo, Romuald Fons, «el rey del SEO», te desvela las 51 leyes que lo han guiado de la pobreza más absoluta a un legado de riqueza personal y éxito empresarial.",
         "precio": "680",
         "genero": "empresarial",
-        "img": "../images/empresarial/creceyhazterico.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fcreceyhazterico.jpg?alt=media&token=d34574a3-def8-40b8-ab79-4f3468d5de8b",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "34",
@@ -294,8 +326,9 @@
         "sinopsis": "La vida media del ser humano es ridículamente breve: si llegas a los 80 años, habrás vivido unas 4000 semanas. Si tienes 40, solo te quedan 2000. Sin embargo, estamos obsesionados con interminables listas de tareas pendientes, buzones saturados de correos sin leer y la sensación de que nunca llegamos a todo. La mayoría de los consejos sobre gestión de tiempo fomentan la idea de que un día podremos «hacerlo todo» y convertirnos en los dueños de nuestro tiempo, totalmente optimizados y emocionalmente invencibles.",
         "precio": "635",
         "genero": "empresarial",
-        "img": "../images/empresarial/cuatromilsemanas.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fcuatromilsemanas.jpg?alt=media&token=f766ec68-0042-4527-82f5-fe64b61c258e",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "35",
@@ -303,8 +336,9 @@
         "sinopsis": "Juan Diego Gómez Gómez, autor de cuatro best sellers, presenta en este sorprendente e inspirador libro, ideas sobre cómo progresar a partir de cero, tal y como él lo hizo. Con nuevas revelaciones, sugerencias prácticas y lecciones útiles, el autor te lleva de la mano a explotar tu potencial y vivir una vida más próspera y feliz. ",
         "precio": "740",
         "genero": "empresarial",
-        "img": "../images/empresarial/deceroarico.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fdeceroarico.jpg?alt=media&token=b848930f-28d0-4508-8441-2764b7d85acd",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "36",
@@ -312,8 +346,9 @@
         "sinopsis": "En los últimos cuatro años, el conocimiento neurocientífico aplicado al mundo de los negocios ha avanzado más que en los anteriores treinta años.",
         "precio": "450",
         "genero": "empresarial",
-        "img": "../images/empresarial/neurooratoria.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fneurooratoria.jpg?alt=media&token=a4f12a72-fa32-4a56-8ffe-2e602a1e5f9e",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "37",
@@ -321,8 +356,9 @@
         "sinopsis": "Gracias a las revelaciones de su círculo más cercano, las técnicas del Oráculo de Omaha salen a la luz a través del estudio más exhaustivo de su cartera de acciones. Aquí no encontrarás una biografía repleta de anécdotas, sino que conocerás la fórmula del éxito financiero a través de conceptos, modelos matemáticos y casos concretos de empresas que fueron adquiridas por Buffett.",
         "precio": "535",
         "genero": "empresarial",
-        "img": "../images/empresarial/buffetologia.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fbuffetologia.jpg?alt=media&token=0a908784-3c4d-4d8b-8eb0-3725d0911a33",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "38",
@@ -330,8 +366,9 @@
         "sinopsis": "écnicas, herramientas, dinámicas y conocimientos necesarios en el Coaching de Equipos.Mediante una clara exposición de conceptos y situaciones basadas en la experiencia y conocimiento de sus autores, se desarrolla un manual de obligada lectura para aquellos que facilitan el cambio en los equipos. Una guía práctica para coaches, formadores, consultores y líderes que desean conocer mejor las realidades de sus equipos, y fomentar el desarrollo de los mismos. ",
         "precio": "560",
         "genero": "empresarial",
-        "img": "../images/empresarial/coaching.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fcoaching.jpg?alt=media&token=549d631e-b415-475e-bbc5-616459978b72",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "39",
@@ -339,8 +376,9 @@
         "sinopsis": "LA GENTE DICE QUE LE GUSTA EL DINERO, PERO EN ESTE LIBRO DESCUBRIRÁS QUE LO QUE TE GUSTA ES LO QUE COMPRA Y NADA MÁS, por esto es que 7 de cada 10 personas le tienen miedo al dinero y no se conectan bien con él.",
         "precio": "620",
         "genero": "empresarial",
-        "img": "../images/empresarial/conectateconeldinero.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fconectateconeldinero.jpg?alt=media&token=43adc18e-0d9a-4d2c-be3f-e8410ef97685",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "40",
@@ -348,8 +386,9 @@
         "sinopsis": "Un plan concreto para frenar las ambiciones de los 9 gigantes tecnológicos que gobiernan el mundo y recuperar el control de nuestro destino.",
         "precio": "630",
         "genero": "empresarial",
-        "img": "../images/empresarial/nuevegigantes.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fnuevegigantes.jpg?alt=media&token=87546df0-2b6e-44ae-ac97-90790ada764e",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "41",
@@ -357,8 +396,9 @@
         "sinopsis": "Los tiempos que vienen serán radicalmente diferentes a los que hemos vivido hasta ahora, pero se parecerán mucho a otras etapas de la historia. Esta es la principal conclusión a la que ha llegado el experto inversor Ray Dalio, después de un titánico estudio de episodios análogos al presente en los últimos quinientos años: los ciclos históricos siempre han sido muy similares entre ellos.",
         "precio": "670",
         "genero": "empresarial",
-        "img": "../images/empresarial/nuevoordenmundial.jpg",
-        "idCategoria":"empresarial"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fnuevoordenmundial.jpg?alt=media&token=1a753335-83f9-4d83-9193-d57db730f5d9",
+        "idCategoria":"empresarial",
+        "stock": 10
     },
     {
         "id": "42",
@@ -366,8 +406,9 @@
         "sinopsis": "Cuando tras mil peripecias llega a la ciudad de San Francisco, un grupo de delincuentes trata de apoderarse de ella, lo que da lugar a conflictos, asesinatos y pasiones exacerbadas.",
         "precio": "640",
         "genero": "policiales",
-        "img": "../images/policiales/elhalconmaltes.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felhalconmaltes.jpg?alt=media&token=166ad781-693b-4ecf-8828-7f5d1a5568b8",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "43",
@@ -375,8 +416,9 @@
         "sinopsis": "El asesinato de Frank le obligará a sumergirse en la trama, compleja y llena de sombras, de relaciones, amenazas y favores que conforman el Brooklyn que él creía conocer tan bien y donde nadie es lo que parece.",
         "precio": "435",
         "genero": "policiales",
-        "img": "../images/policiales/huerfanosdebrooklyn.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fhuerfanosdebrooklyn.jpg?alt=media&token=41fccff8-5be2-4ef8-aa78-fb08b932cd2d",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "44",
@@ -384,8 +426,9 @@
         "sinopsis": "A la sombra del reciente Muro de Berlín, Alec Leamas asiste al asesinato de su último agente, muerto de un disparo a manos de los guardias de la RDA. Para Leamas, antiguo responsable del espionaje inglés en Alemania Oriental, la guerra fría se ha acabado.",
         "precio": "530",
         "genero": "policiales",
-        "img": "../images/policiales/elespiaquesurgiodelfrio.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felespiaquesurgiodelfrio.jpg?alt=media&token=76d2680c-60f0-40c9-bc4c-275c8ff02107",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "45",
@@ -393,8 +436,9 @@
         "sinopsis": "La hija del tiempo (en inglés, The Daughter of Time) es una novela detectivesca de 1951 obra de Josephine Tey, sobre la investigación de un oficial de policía moderno sobre los presuntos crímenes del rey Ricardo III de Inglaterra. Fue el último libro que publicó Tey en su vida, poco antes de su muerte.",
         "precio": "580",
         "genero": "policiales",
-        "img": "../images/policiales/lahijadeltiempo.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flahijadeltiempo.jpg?alt=media&token=e1fbd907-4a48-4ee1-81be-d5c889c12c95",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "46",
@@ -402,8 +446,9 @@
         "sinopsis": "Essex, Inglaterra. En la mansión Styles, la millonaria Emily Inglethorp es encontrada muerta en su cama, aparentemente víctima de un ataque cardíaco. Las puertas del cuarto estaban cerradas por dentro y todo indica una muerte natural. Pero el médico de la familia levanta una sospecha: asesinato por envenenamiento.",
         "precio": "610",
         "genero": "policiales",
-        "img": "../images/policiales/elmisteriosocasodestyles.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Felmisteriosocasodestyles.jpg?alt=media&token=fbabf498-2695-4629-b912-34ac13b43cef",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "47",
@@ -411,8 +456,9 @@
         "sinopsis": "Acosado por sus problemas de salud, sus remordimientos por desatender a su anciano padre o la angustia por la separación de su mujer y la pérdida de contacto con su hija, la vida del inspector dará un vuelco cuando conozca a Baiba Lepa, una mujer que agregará a los conflictos políticos de Letonia las turbulencias ...",
         "precio": "730",
         "genero": "policiales",
-        "img": "../images/policiales/losperrosderiga.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flosperrosderiga.jpg?alt=media&token=92dcfc14-209e-460d-a6e5-4e5af34ff659",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "48",
@@ -420,8 +466,9 @@
         "sinopsis": "Cuando la joven escritora Erica vuelve a su pueblo natal tras el fallecimiento de sus padres, no se puede ni imaginar que se verá envuelta en la truculenta historia de un crimen cuyos protagonistas no son otros que sus propios amigos de la infancia.",
         "precio": "710",
         "genero": "policiales",
-        "img": "../images/policiales/laprincesadehielo.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flaprincesadehielo.jpg?alt=media&token=e1e8c2a7-adf9-4f6e-a628-eb93549d8b34",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "49",
@@ -429,8 +476,9 @@
         "sinopsis": "Con trece años, Johnny Merrimon tiene que enfrentarse a situaciones que ningún chico de su edad debería afrontar. En el año transcurrido desde la desaparición de su hermana melliza, Alyssa, su mundo se ha venido abajo: su padre les ha dejado y su frágil madre se encuentra inmersa en una espiral de autodestrucción.",
         "precio": "690",
         "genero": "policiales",
-        "img": "../images/policiales/nohaycuervos.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Fnohaycuervos.jpg?alt=media&token=36c11d7c-24fd-4727-a2bb-1c679e1bef0e",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "50",
@@ -438,8 +486,9 @@
         "sinopsis": "Los crímenes de la calle Morgue es considerada como la primera historia policiaca de la literatura. Contenido: Al joven francés C. August Dupin le llama la atención un informe periodístico sobre un misterioso doble asesinato en París. Junto con un amigo, estudia todos los testimonios y examina la escena del crimen.",
         "precio": "750",
         "genero": "policiales",
-        "img": "../images/policiales/loscrimenesdelacallemorgue.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Floscrimenesdelacallemorgue.jpg?alt=media&token=850523fe-0660-407d-bf11-50cdd1584281",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "51",
@@ -447,8 +496,9 @@
         "sinopsis": "Un cadáver hallado en extrañas circunstancias pone en marcha los reflejos deductivos de Holmes, mientras la policía oficial se pierde en divagaciones equivocadas o arresta a inocentes ciudadanos. Un nuevo asesinato parece complicar la historia, pero a Holmes se la aclara.",
         "precio": "790",
         "genero": "policiales",
-        "img": "../images/policiales/estudioenescarlata.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Festudioenescarlata.jpg?alt=media&token=284e5f1c-e50a-4240-9552-6c2b065b67d7",
+        "idCategoria":"policiales",
+        "stock": 10
     },
     {
         "id": "52",
@@ -456,7 +506,8 @@
         "sinopsis": "En 2008, Marcus Goldman, un joven escritor, visita a su mentor -Harry Quebert, autor de una aclamada novela- y descubre que éste tuvo una relación secreta con Nola Kellergan. Poco después, Harry es arrestado y acusado de asesinato al encontrarse el cadáver de Nola enterrado en su jardín.",
         "precio": "640",
         "genero": "Policiales",
-        "img": "../images/policiales/laverdadsobreelcasoharryquebert.jpg",
-        "idCategoria":"policiales"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-ecommerce-99b8d.appspot.com/o/imagenes%2Flaverdadsobreelcasoharryquebert.jpg?alt=media&token=72f5c7d1-9162-49d9-a556-70b84c7dd12f",
+        "idCategoria":"policiales",
+        "stock": 10
     }
 ]

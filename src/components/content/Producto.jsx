@@ -15,7 +15,7 @@ const Producto = () => {
 
     return (
         <>
-            <div className="card mb-3" style={{ maxWidth: 540 }}>
+            <div className="card mb-3 row" style={{ maxWidth: 540 }}>
                 <DetalleProducto producto={producto}/>
             </div>
 

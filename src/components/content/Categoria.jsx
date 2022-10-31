@@ -18,12 +18,12 @@ const Categoria = () => {
                 <div className="card cardProducto" key={producto.id} style={{ maxWidth: 800 }}>
                     <div className="row g-0">
                         <div className="col-md-4">
-                            <img src={"../img/" + producto.img} className="img-fluid rounded-start" alt="..." />
+                            <img src={producto.img} className="img-fluid rounded-start" alt="..." />
                         </div>
                         <div className="col-md-8">
                             <div className="card-body">
                                 <h5 className="card-title">{producto.nombre}</h5>
-                                <p className="card-text">Categoria: {producto.categoria}</p>
+                                <p className="card-text">Género: {producto.genero}</p>
                                 <p className="card-text">Sinopsis: {producto.sinopsis}</p>
                                 <p className="card-text">Precio: {producto.precio}</p>
                                 <button className='btn btn-dark'><Link className='nav-link' to={`/producto/${producto.id}`}>Ver Producto</Link></button>
