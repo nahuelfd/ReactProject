@@ -3,7 +3,11 @@ body {
   min-height: calc(100vh - (100px + 100px));
 }
 
-
+.pSize{
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
 
 .button{
   margin-top: 25px;
