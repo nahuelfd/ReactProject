@@ -1,6 +1,6 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-import {collection, addDoc, getFirestore, doc, getDocs, getDoc} from "firebase/firestore"
+import {collection, addDoc, getFirestore, doc, getDocs, getDoc, updateDoc, deleteDoc} from "firebase/firestore"
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -41,11 +41,54 @@ const getProducto = async (id) => {
     return prod
   }
   
+   // metodos para manipular la informacion de los productos en firestore
+
   const getProductos = async () => {
     const productos = await getDocs(collection(db, "productos"))
     const items = productos.docs.map(producto => [producto.id, producto.data()])
     return items
   }
+// para actualizar
+  const updateProducto = async (id, info) => {
+    const estado = await updateDoc(doc(db, "productos", id), info)
+    return estado
+  }
+
+  // para eliminar
+  const deleteProducto = async(id) => {
+    const estado = await deleteDoc(doc(db, "productos", id))
+    return estado
+  }
+ // para crear un nuevo producto
+  const createProducto = async (objProd) => {
+    const estado = await addDoc(doc(db, "productos"), {
+      nombre: objProd.nombre,
+            sinopsis: objProd.sinopsis,
+            categoria: objProd.idCategoria,
+            genero: objProd.genero,
+            stock: objProd.stock,
+            precio: objProd.precio,
+            img: objProd.img 
+    })
+
+    return estado
+  }
+
+  const createOrdenCompra = async (preTotal, nombre, apellido, email) => {
+    const ordenCompra = await addDoc(collection(db, "ordenCompra"), {
+      precioTotal: preTotal,
+      nombre: nombre,
+      apellido: apellido,
+      email: email
+    })
+
+    return ordenCompra
+  }
+
+  const getOrdenCompra = async (id) => {
+    const ordenCompra = await getDoc(doc(db, "odenCompra", id))
+    return ordenCompra
+  }
 
 
-  export {db, app, cargarBaseDeDatos, getProductos, getProducto}
+  export {app, db, cargarBaseDeDatos, getProductos, getProducto, updateProducto, deleteProducto, createProducto, createOrdenCompra, getOrdenCompra}

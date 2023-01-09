@@ -2,8 +2,8 @@ import {memo} from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            
+        <div className='divf'>
+            <h1 className='foot'>Librerías Del Sur</h1>
         </div>
     );
 }
